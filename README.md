@@ -1,6 +1,6 @@
 - 👋 Hi, I’m suziat Aramide Taofeek by name
 - 👀 I’m interested in building a career in data analysis/business analysis
-- 🌱 I’m currently learning python for data analysis, excel, powerbi, Sql and programming all for data analysis
+- 🌱 Skilled in python for data analysis, excel, powerbi, Sql and programming all for data analysis
 - 💞️ I’m looking to collaborate on capstones projects/reallife project to build my portfolio as a data analyst
 - 📫 You can reach me through my email address taofeeksuziat@gmail.com
 
